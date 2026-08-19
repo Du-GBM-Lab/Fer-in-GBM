@@ -1,0 +1,6 @@
+title: Fer-in-GBM
+description: Code and data-access documentation for spatially resolved ferroptosis-associated states in glioblastoma.
+theme: jekyll-theme-cayman
+show_downloads: true
+github:
+  repository_url: https://github.com/Du-GBM-Lab/Fer-in-GBM

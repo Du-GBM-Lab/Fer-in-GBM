@@ -1,0 +1,12 @@
+Licensing and provenance notice
+
+The MIT License applies to code and documentation for which the repository
+authors hold the necessary rights. It does not replace or override the terms
+of third-party datasets, software, gene sets, or code excerpts.
+
+The files under legacy/ are preserved as a historical record of the repository
+before reorganization. At least one legacy file contains material associated
+with an external published workflow, and its redistribution or reuse terms
+have not yet been established. No additional license grant is made for such
+third-party material by including it in this repository. Confirm provenance
+and the original license before reuse.

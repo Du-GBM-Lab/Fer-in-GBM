@@ -1,0 +1,30 @@
+# Local data, results, and machine-specific configuration
+data/
+results/
+output/
+outputs/
+config/paths.local.R
+
+# R and RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Large analysis objects
+*.rds
+*.RDS
+*.rda
+*.RData
+*.h5
+*.h5ad
+*.h5seurat
+*.loom
+*.qs
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini

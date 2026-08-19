@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below and cite the associated manuscript when its final bibliographic record is available."
+title: "Fer-in-GBM analysis code"
+type: software
+version: 0.1.0
+date-released: 2026-08-19
+license: MIT
+repository-code: "https://github.com/Du-GBM-Lab/Fer-in-GBM"
+url: "https://du-gbm-lab.github.io/Fer-in-GBM/"
+abstract: "Selected R analysis scripts supporting a study of spatially resolved ferroptosis-associated states in glioblastoma."
+authors:
+  - family-names: Zhao
+    given-names: Wenbo
+  - family-names: Lian
+    given-names: Qingbei
+  - family-names: Yang
+    given-names: Yihang
+  - family-names: Du
+    given-names: Jianyang
+    orcid: "https://orcid.org/0000-0001-9682-4183"
+keywords:
+  - ferroptosis
+  - glioblastoma
+  - spatial transcriptomics
+  - single-cell RNA sequencing
+  - tumor microenvironment
